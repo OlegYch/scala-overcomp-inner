@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="scala-overcomp-inner,scala-overcomp-inner.common,scala-overcomp-inner.common.main,scala-overcomp-inner.common.test,scala-overcomp-inner.main,scala-overcomp-inner.test" />
+  </component>
+</project>
